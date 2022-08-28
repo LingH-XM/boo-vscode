@@ -2,4 +2,4 @@
 today
 
 #installation
-#READ
+#read
